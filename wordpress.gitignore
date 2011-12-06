@@ -1,0 +1,9 @@
+wp-config.php
+wp-content/*
+!wp-content/languages/
+!wp-content/plugins/
+!wp-content/themes/
+!wp-content/sunrise.php
+!wp-content/index.php
+sitemap.xml
+sitemap.xml.gz
